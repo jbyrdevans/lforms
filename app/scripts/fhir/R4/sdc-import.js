@@ -1,3 +1,4 @@
+var LForms = require('lforms');
 /**
  * A package to handle conversion from FHIR SDC Questionnaire to LForms
  *

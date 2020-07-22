@@ -1,3 +1,5 @@
+var LForms = require('lforms');
+
 /**
  *  Defines SDC export functions that are the same across the different FHIR
  *  versions.  The function takes the SDC namespace object defined in the sdc export
